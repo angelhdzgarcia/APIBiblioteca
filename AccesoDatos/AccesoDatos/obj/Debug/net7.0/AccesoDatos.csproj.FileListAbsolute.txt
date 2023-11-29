@@ -1,0 +1,42 @@
+D:\Visual Studio\desarrollo\AccesoDatos\AccesoDatos\bin\Debug\net7.0\AccesoDatos.deps.json
+D:\Visual Studio\desarrollo\AccesoDatos\AccesoDatos\bin\Debug\net7.0\AccesoDatos.runtimeconfig.json
+D:\Visual Studio\desarrollo\AccesoDatos\AccesoDatos\bin\Debug\net7.0\AccesoDatos.dll
+D:\Visual Studio\desarrollo\AccesoDatos\AccesoDatos\bin\Debug\net7.0\AccesoDatos.pdb
+D:\Visual Studio\desarrollo\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.AssemblyReference.cache
+D:\Visual Studio\desarrollo\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\desarrollo\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfoInputs.cache
+D:\Visual Studio\desarrollo\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfo.cs
+D:\Visual Studio\desarrollo\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Visual Studio\desarrollo\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.dll
+D:\Visual Studio\desarrollo\AccesoDatos\AccesoDatos\obj\Debug\net7.0\refint\AccesoDatos.dll
+D:\Visual Studio\desarrollo\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.pdb
+D:\Visual Studio\desarrollo\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.genruntimeconfig.cache
+D:\Visual Studio\desarrollo\AccesoDatos\AccesoDatos\obj\Debug\net7.0\ref\AccesoDatos.dll
+C:\Users\angel\Desktop\AccesoDatos\AccesoDatos\bin\Debug\net7.0\AccesoDatos.deps.json
+C:\Users\angel\Desktop\AccesoDatos\AccesoDatos\bin\Debug\net7.0\AccesoDatos.runtimeconfig.json
+C:\Users\angel\Desktop\AccesoDatos\AccesoDatos\bin\Debug\net7.0\AccesoDatos.dll
+C:\Users\angel\Desktop\AccesoDatos\AccesoDatos\bin\Debug\net7.0\AccesoDatos.pdb
+C:\Users\angel\Desktop\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\angel\Desktop\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Desktop\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\angel\Desktop\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.dll
+C:\Users\angel\Desktop\AccesoDatos\AccesoDatos\obj\Debug\net7.0\refint\AccesoDatos.dll
+C:\Users\angel\Desktop\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.pdb
+C:\Users\angel\Desktop\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.genruntimeconfig.cache
+C:\Users\angel\Desktop\AccesoDatos\AccesoDatos\obj\Debug\net7.0\ref\AccesoDatos.dll
+C:\Users\angel\Documents\Despliegue de aplicaciones\AccesoDatos\AccesoDatos\bin\Debug\net7.0\AccesoDatos.deps.json
+C:\Users\angel\Documents\Despliegue de aplicaciones\AccesoDatos\AccesoDatos\bin\Debug\net7.0\AccesoDatos.runtimeconfig.json
+C:\Users\angel\Documents\Despliegue de aplicaciones\AccesoDatos\AccesoDatos\bin\Debug\net7.0\AccesoDatos.dll
+C:\Users\angel\Documents\Despliegue de aplicaciones\AccesoDatos\AccesoDatos\bin\Debug\net7.0\AccesoDatos.pdb
+C:\Users\angel\Documents\Despliegue de aplicaciones\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\angel\Documents\Despliegue de aplicaciones\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\Despliegue de aplicaciones\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\Despliegue de aplicaciones\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\angel\Documents\Despliegue de aplicaciones\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\Despliegue de aplicaciones\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.dll
+C:\Users\angel\Documents\Despliegue de aplicaciones\AccesoDatos\AccesoDatos\obj\Debug\net7.0\refint\AccesoDatos.dll
+C:\Users\angel\Documents\Despliegue de aplicaciones\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.pdb
+C:\Users\angel\Documents\Despliegue de aplicaciones\AccesoDatos\AccesoDatos\obj\Debug\net7.0\AccesoDatos.genruntimeconfig.cache
+C:\Users\angel\Documents\Despliegue de aplicaciones\AccesoDatos\AccesoDatos\obj\Debug\net7.0\ref\AccesoDatos.dll

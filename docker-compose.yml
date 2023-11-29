@@ -1,0 +1,15 @@
+version: '3'
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+
+  api:
+    container_name: api-helado
+    image: api-helado
+    ports:
+      - "3000:3000"
+    links:
+      - mongodb

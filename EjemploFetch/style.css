@@ -25,6 +25,7 @@ h1 {
 
 table {
   width: 100%;
+  padding: 200px;
   margin-top: 20px;
   border-collapse: collapse;
   border: 2px solid black; /* Agrega un borde de 2px color negro a la tabla */
@@ -34,11 +35,11 @@ thead {
   background-color: #4CAF50;
   color: white;
 }
-
 th, td {
   border: 1px solid black; /* Agrega un borde de 1px color negro a las celdas */
   padding: 12px;
   text-align: left;
+
 }
 
 th {
